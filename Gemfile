@@ -33,6 +33,7 @@ gem 'devise', '~> 4.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'paperclip', '~> 6.1'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.12.1'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
