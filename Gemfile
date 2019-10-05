@@ -31,6 +31,7 @@ gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'devise', '~> 4.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
+gem 'paperclip', '~> 6.1'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
